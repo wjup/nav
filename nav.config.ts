@@ -17,13 +17,13 @@ const c: IConfig = {
   homeUrl: 'http://hello.wiung.com',
 
   // 网站标题
-  title: '发现导航 - 精选实用导航网站',
+  title: 'wiung | 发现导航 - 精选实用导航网站',
 
   // 网站描述
-  description: '发现导航 - 精选实用导航网站',
+  description: 'wiung | 发现导航 - 精选实用导航网站',
 
   // 网站关键字
-  keywords: '导航,前端资源,社区站点,设计师,实用工具,学习资源,运营,网络安全,node.js',
+  keywords: 'wiung,导航,前端资源,社区站点,设计师,实用工具,学习资源,运营,网络安全,node.js',
 
   // 默认主题: Light | Sim | Side | App | Shortcut
   theme: 'Light',
@@ -31,7 +31,7 @@ const c: IConfig = {
   // 网站底部内容, 版权信息、备案号, 可以是 HTML
   footerContent: `
     <div style="font-weight: bold;">共收录\${total}个网站</div>
-    <div>Copyright © 2018-2021 nav3.cn, All Rights Reserved</div>
+    <div>Copyright © 2018-2021 hello.wiung.com, All Rights Reserved</div>
   `,
 
   // 阿里巴巴矢量图库 https://www.iconfont.cn/
@@ -40,7 +40,7 @@ const c: IConfig = {
 
   // 百度统计地址
   // https://tongji.baidu.com/web/welcome/login
-  baiduStatisticsUrl: 'https://hm.baidu.com/hm.js?4582be7af7e7c95ef75351e07c6c32ba',
+  baiduStatisticsUrl: 'https://hm.baidu.com/hm.js?503258988cfa445a84833669ba54f897',
 
   // CNZZ 统计地址
   // https://www.cnzz.com/o_index.php
